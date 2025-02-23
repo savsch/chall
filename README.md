@@ -11,3 +11,6 @@ git lfs pull
 mkdir extracted
 cat kitler\'s-phone.tgz-part* | tar -xzf - -C extracted
 ```
+
+#### Unrelated to the challenge
+For more on git lfs, check out https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
